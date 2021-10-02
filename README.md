@@ -4,7 +4,7 @@
 - 🌱 Estou estudando front-end
 - ⚡ Você demoraria menos de 6 meses se fosse até a lua em uma velocidade de 100km/h
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/lucas-kobayashi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-kobayashi&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-kobayashi&layout=compact&langs_count=7&theme=blueberry"/>

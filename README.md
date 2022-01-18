@@ -1,6 +1,6 @@
 ## Eae, meu nome é Lucas mas pode me chamar de Koba ✌🏼
 
-- 📚 Estudante de ADS (4/4 semestres)
+- 📚 Formado em ADS
 - 🌱 Estou estudando front-end
 - ⚡ Você demoraria menos de 6 meses se fosse até a lua em uma velocidade de 100km/h
 
